@@ -4,10 +4,10 @@
 
 ## Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Link repo (fork):
+- Họ tên: Nguyễn Thành Luân
+- MSSV: 2A202602769 
+- Email: 26ai.luannt2@vinuni.edu.vn
+- Link repo (fork): https://github.com/Tluan-source/K4-L2L3-DAY23-NguyenThanhLuan-2A202602769-SensorFusion.git
 - Commit hash nộp (`git rev-parse HEAD`):
 
 ## Tóm tắt kết quả
